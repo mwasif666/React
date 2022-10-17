@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.s{
+  font-size: 20px;
+  display: flex;
+  gap: 20px;
+  background-color: yellow;
+}
